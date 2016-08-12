@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fuck</string>
+    <string name="action_settings">Settings</string>
+    <string name="BtnStart">开始</string>
+    <string name="Status">状态</string>
+    <string name="Result">结果</string>
+    <string name="BtnCancel">取消</string>
+    <string name="BtnOpen">打开自定义语音识别界面</string>
+
+</resources>
